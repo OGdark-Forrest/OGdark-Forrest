@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom Files
+devices.json
+spotify_tokens.json
+jobs.json
+chumma.py
+
+# Custom Directories
+VBS/
