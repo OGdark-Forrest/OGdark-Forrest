@@ -30,7 +30,7 @@
 
 ---
 
-# <font color="#00ff41">PROJECTS</font>
+# <font color="#00ff41">> PROJECTS</font>
 
 ## <font color="#00ff41">Background Service Manager</font>
 
@@ -90,6 +90,8 @@ Current functionality includes file and directory transfer between machines.
 
 <font color="#66ff88">Built a deep neural network entirely from scratch using NumPy, without relying on machine-learning frameworks.</font>
 
+<br>
+
 <font color="#a0ffa8">
 
 **MNIST OCR Testing — ~98% accuracy**
@@ -105,6 +107,8 @@ Implemented the underlying network functionality myself to understand what is ha
 ## <font color="#00ff41">Particle Physics Engine</font>
 
 <font color="#66ff88">Built a physics particle engine, initially in Python and later migrated to C for performance.</font>
+
+<br>
 
 <font color="#a0ffa8">
 
@@ -126,6 +130,8 @@ Simulates:
 
 <font color="#66ff88">Built a memory/context-aware chatbot with tool functionality using only an LLM API.</font>
 
+<br>
+
 <font color="#a0ffa8">
 
 The system maintains contextual information and can invoke MCP tools or custom tools to perform actions rather than functioning purely as a conversational model.
@@ -139,6 +145,8 @@ The system maintains contextual information and can invoke MCP tools or custom t
 ## <font color="#00ff41">CPU Emulator</font>
 
 <font color="#66ff88">Currently building a CPU emulator to explore computer architecture at a lower level.</font>
+
+<br>
 
 <font color="#a0ffa8">
 
@@ -168,7 +176,7 @@ Modeling:
 
 ---
 
-# > <font color="#00ff41">CURRENTLY</font>
+# <font color="#00ff41">> CURRENTLY</font>
 
 <font color="#a0ffa8">
 
@@ -187,7 +195,7 @@ Quantum computing
 
 ---
 
-# <font color="#00ff41">PHILOSOPHY</font>
+# <font color="#00ff41">> PHILOSOPHY</font>
 
 > <font color="#66ff88">If I can understand the abstraction, I should be able to build it myself.</font>
 
