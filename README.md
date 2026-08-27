@@ -1,303 +1,210 @@
-<div align="center">
+<div align="left">
 
-# `sameer@umass:~$ whoami`
-
-### SAMEER KRISHNA
-
-`Computer Science @ UMass Amherst`
-
-**I like understanding how things work underneath the abstractions — and then building them myself.**
+<table>
+<tr>
+<td bgcolor="#050805">
 
 <br>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   SYSTEMS        NETWORKS        ARCHITECTURE                │
-│   COMPUTATION    QUANTUM         CURIOSITY                   │
-│                                                              │
-│   status :: LEARNING / BUILDING / EXPLORING                 │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+# <font color="#00ff41">SAMEER KRISHNA</font>
 
-</div>
+<font color="#66ff88">Computer Science @ UMass Amherst</font>
+
+<font color="#a0ffa8">I like understanding how things work underneath the abstractions — and then building them myself.</font>
+
+<br>
 
 ---
 
-## `./interests`
+## <font color="#00ff41">INTERESTS</font>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   [01] SYSTEMS PROGRAMMING                                  │
-│   [02] COMPUTER ARCHITECTURE                                │
-│   [03] COMPETITIVE PROGRAMMING                              │
-│   [04] QUANTUM COMPUTING                                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<font color="#66ff88">Systems Programming</font>   ·   <font color="#66ff88">Computer Architecture</font>   ·   <font color="#66ff88">Competitive Programming</font>   ·   <font color="#66ff88">Quantum Computing</font>
 
-### `./languages`
+<br>
 
-`Python` · `C` · `SQL`
+## <font color="#00ff41">LANGUAGES</font>
+
+<font color="#a0ffa8">Python</font>   ·   <font color="#a0ffa8">C</font>   ·   <font color="#a0ffa8">SQL</font>
+
+<br>
 
 ---
 
-## `./projects`
+# <font color="#00ff41">PROJECTS</font>
 
-### `01 :: background-service-manager`
+## <font color="#00ff41">Background Service Manager</font>
 
-> A personal service-management system built with Tkinter, designed to run and control background functionality across my machine.
+<font color="#66ff88">A personal service-management system built with Tkinter, designed to run and control background functionality across my machine.</font>
 
-```text
-MUSIC
-│
-├── AutoPause
-│   └── automatically pauses music when other media is detected
-│
-├── IntervalSkipper
-│   └── skips configurable intervals within songs
-│
-└── SpeechPause
-    └── pauses media when human speech is detected
+### <font color="#00ff41">Music</font>
 
+<font color="#a0ffa8">
 
-SERVER
-│
-├── RemotePlayer
-│   └── remotely controls laptop media
-│
-├── RemoteNotes
-│   └── remotely reads and modifies project notes
-│
-├── RemoteStart
-│   └── remotely starts applications and websites
-│       according to the current mode
-│
-└── RemoteService
-    └── remotely launches background services
-```
+**AutoPause** — automatically pauses music when other media is detected.
 
-`stack :: Python · Tkinter · FastAPI · WebSockets · Apple Shortcuts`
+**IntervalSkipper** — skips configurable intervals within songs.
+
+**SpeechPause** — pauses media when human speech is detected.
+
+</font>
+
+### <font color="#00ff41">Server</font>
+
+<font color="#a0ffa8">
+
+**RemotePlayer** — remotely controls laptop media.
+
+**RemoteNotes** — remotely reads and modifies project notes.
+
+**RemoteStart** — remotely starts applications and websites according to the current mode.
+
+**RemoteService** — remotely launches background services.
+
+</font>
+
+<br>
 
 ---
 
-### `02 :: personal-home-server`
+## <font color="#00ff41">Personal Home Server</font>
 
-> Repurposed an old laptop into a personal server using a custom client-server architecture.
+<font color="#66ff88">Repurposed an old laptop into a personal server using a custom client-server architecture.</font>
 
-```text
-CLIENT
-   │
-   ▼
-LISTENER
-   │
-   ▼
-SELECTOR
-   │
-   ▼
-ROUTER
-   │
-   ▼
-TOOLS
-```
+<br>
+
+<font color="#a0ffa8">
+
+Built the communication layer from scratch:
+
+**Listener** → **Selector** → **Router** → **Tools**
 
 Current functionality includes file and directory transfer between machines.
 
-`status :: ACTIVE DEVELOPMENT`
+</font>
+
+<br>
 
 ---
 
-### `03 :: neural-network-from-scratch`
+## <font color="#00ff41">Neural Network from Scratch</font>
 
-> A deep neural network implemented entirely from scratch using NumPy, without relying on machine-learning frameworks.
+<font color="#66ff88">Built a deep neural network entirely from scratch using NumPy, without relying on machine-learning frameworks.</font>
 
-```text
-dataset        :: MNIST
-frameworks     :: none
-implementation :: NumPy
-accuracy       :: ~98%
-```
+<font color="#a0ffa8">
 
-Built the underlying network functionality myself to understand what happens beneath high-level ML abstractions.
+**MNIST OCR Testing — ~98% accuracy**
 
----
+Implemented the underlying network functionality myself to understand what is happening beneath high-level ML libraries.
 
-### `04 :: particle-physics-engine`
+</font>
 
-> A particle simulation engine initially written in Python and later migrated to C for performance.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ELECTROSTATIC FORCES                                     │
-│   GRAVITY                                                   │
-│   PARTICLE COLLISIONS                                      │
-│   BOUNCING                                                  │
-│   PARTICLE INTERACTIONS                                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-`Python → C`
+<br>
 
 ---
 
-### `05 :: general-purpose-llm-agent`
+## <font color="#00ff41">Particle Physics Engine</font>
 
-> A memory and context-aware chatbot with tool functionality built using only an LLM API.
+<font color="#66ff88">Built a physics particle engine, initially in Python and later migrated to C for performance.</font>
 
-```text
-             ┌───────────────┐
-             │    CONTEXT    │
-             │               │
-             │    memory     │
-             │    history    │
-             └───────┬───────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │     LLM     │
-              └──────┬──────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ TOOL ROUTER   │
-             │               │
-             │ MCP tools     │
-             │ custom tools  │
-             └───────────────┘
-```
+<font color="#a0ffa8">
 
-Designed to function as an agent capable of taking actions rather than purely generating conversational responses.
+Simulates:
+
+* Electrostatic forces
+* Gravity
+* Particle collisions
+* Bouncing
+* Particle interactions
+
+</font>
+
+<br>
 
 ---
 
-### `06 :: cpu-emulator`
+## <font color="#00ff41">General Purpose LLM Agent</font>
 
-> Currently building a CPU emulator to explore computer architecture at a lower level.
+<font color="#66ff88">Built a memory/context-aware chatbot with tool functionality using only an LLM API.</font>
 
-```text
-             ┌──────────────────────┐
-             │         CPU          │
-             ├──────────────────────┤
-             │                      │
-             │     REGISTERS        │
-             │         │            │
-             │         ▼            │
-             │   INSTRUCTION        │
-             │      FETCH           │
-             │         │            │
-             │         ▼            │
-             │      DECODE          │
-             │         │            │
-             │         ▼            │
-             │      EXECUTE         │
-             │         │            │
-             │         ▼            │
-             │      MEMORY          │
-             │                      │
-             └──────────────────────┘
-```
+<font color="#a0ffa8">
 
-`status :: BUILDING`
+The system maintains contextual information and can invoke MCP tools or custom tools to perform actions rather than functioning purely as a conversational model.
+
+</font>
+
+<br>
 
 ---
 
-### `07 :: remote-screen-sharing`
+## <font color="#00ff41">CPU Emulator</font>
 
-> Secure screen sharing between my laptop and phone using personal server infrastructure and WebSockets.
+<font color="#66ff88">Currently building a CPU emulator to explore computer architecture at a lower level.</font>
 
-```text
-┌──────────────┐                         ┌──────────────┐
-│    LAPTOP    │                         │     PHONE    │
-│              │                         │              │
-│   SCREEN     │────── WebSocket ───────▶│    DISPLAY   │
-│   CAPTURE    │                         │              │
-└──────────────┘                         └──────────────┘
-```
+<font color="#a0ffa8">
 
-`protocol :: WebSockets`
+Modeling:
 
----
+**Registers** · **Memory** · **Instructions** · **Execution**
 
-### `08 :: private-mesh-network`
+</font>
 
-> Currently exploring how to build a Tailscale-like private mesh network and VPN tunneling system from the ground up.
-
-```text
-                  ┌─────────┐
-                  │ NODE A  │
-                  └────┬────┘
-                       │
-              ┌────────┴────────┐
-              │                 │
-              ▼                 ▼
-        ┌─────────┐       ┌─────────┐
-        │ NODE B  │───────│ NODE C  │
-        └─────────┘       └─────────┘
-              │                 │
-              └────────┬────────┘
-                       ▼
-                PRIVATE MESH
-```
-
-`status :: EXPERIMENTING`
+<br>
 
 ---
 
-## `./currently`
+## <font color="#00ff41">Remote Screen Sharing</font>
 
-```text
-$ cat status
+<font color="#66ff88">Built secure screen sharing between my laptop and phone using my personal server infrastructure and WebSockets.</font>
 
-learning    :: CPU architecture & emulation
-building    :: private mesh networking
-exploring   :: quantum computing
-```
+<br>
 
 ---
 
-## `./philosophy`
+## <font color="#00ff41">Private Mesh Network</font>
 
-<div align="center">
+<font color="#66ff88">Currently exploring how to build a Tailscale-like private mesh network and VPN tunneling system from the ground up.</font>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  "If I can understand the abstraction,                       │
-│   I should be able to build it myself."                      │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-</div>
+<br>
 
 ---
 
-## `./system`
+# <font color="#00ff41">CURRENTLY</font>
 
-```text
-$ ./interests --recursive
+<font color="#a0ffa8">
 
-systems
-├── architecture
-├── networks
-├── computation
-└── quantum
+**Learning**
+CPU architecture & emulation
 
-$ echo $STATUS
+**Building**
+Private mesh networking
 
-curious.
-building.
-going deeper.
+**Exploring**
+Quantum computing
 
-$ _
-```
+</font>
 
-<div align="center">
+<br>
 
-`_________ systems · networks · architecture · quantum · curiosity _________`
+---
+
+# <font color="#00ff41">PHILOSOPHY</font>
+
+> <font color="#66ff88">If I can understand the abstraction, I should be able to build it myself.</font>
+
+<br>
+
+---
+
+<font color="#00ff41">systems</font>
+  ·   <font color="#00ff41">networks</font>
+  ·   <font color="#00ff41">architecture</font>
+  ·   <font color="#00ff41">quantum</font>
+  ·   <font color="#00ff41">curiosity</font>
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 </div>
