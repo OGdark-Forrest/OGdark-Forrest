@@ -40,11 +40,11 @@
 
 <font color="#a0ffa8">
 
-**AutoPause** — automatically pauses music when other media is detected.
+  **AutoPause** — automatically pauses music when other media is detected.
 
-**IntervalSkipper** — skips configurable intervals within songs.
+  **IntervalSkipper** — skips configurable intervals within songs.
 
-**SpeechPause** — pauses media when human speech is detected.
+  **SpeechPause** — pauses media when human speech is detected.
 
 </font>
 
@@ -52,13 +52,13 @@
 
 <font color="#a0ffa8">
 
-**RemotePlayer** — remotely controls laptop media.
+  **RemotePlayer** — remotely controls laptop media.
 
-**RemoteNotes** — remotely reads and modifies project notes.
+  **RemoteNotes** — remotely reads and modifies project notes.
 
-**RemoteStart** — remotely starts applications and websites according to the current mode.
+  **RemoteStart** — remotely starts applications and websites according to the current mode.
 
-**RemoteService** — remotely launches background services.
+  **RemoteService** — remotely launches background services.
 
 </font>
 
@@ -68,7 +68,7 @@
 
 ## <font color="#00ff41">Personal Home Server</font>
 
-<font color="#66ff88">Repurposed an old laptop into a personal server using a custom client-server architecture.</font>
+  <font color="#66ff88">Repurposed an old laptop into a personal server using a custom client-server architecture.</font>
 
 <br>
 
@@ -76,9 +76,9 @@
 
 Built the communication layer from scratch:
 
-**Listener** → **Selector** → **Router** → **Tools**
+  **Listener** → **Selector** → **Router** → **Tools**
 
-Current functionality includes file and directory transfer between machines.
+  Current functionality includes file and directory transfer between machines.
 
 </font>
 
@@ -88,15 +88,15 @@ Current functionality includes file and directory transfer between machines.
 
 ## <font color="#00ff41">Neural Network from Scratch</font>
 
-<font color="#66ff88">Built a deep neural network entirely from scratch using NumPy, without relying on machine-learning frameworks.</font>
+  <font color="#66ff88">Built a deep neural network entirely from scratch using NumPy, without relying on machine-learning frameworks.</font>
 
 <br>
 
 <font color="#a0ffa8">
 
-**MNIST OCR Testing — ~98% accuracy**
+  **MNIST OCR Testing — ~98% accuracy**
 
-Implemented the underlying network functionality myself to understand what is happening beneath high-level ML libraries.
+  Implemented the underlying network functionality myself to understand what is happening beneath high-level ML libraries.
 
 </font>
 
@@ -106,19 +106,19 @@ Implemented the underlying network functionality myself to understand what is ha
 
 ## <font color="#00ff41">Particle Physics Engine</font>
 
-<font color="#66ff88">Built a physics particle engine, initially in Python and later migrated to C for performance.</font>
+  <font color="#66ff88">Built a physics particle engine, initially in Python and later migrated to C for performance.</font>
 
 <br>
 
 <font color="#a0ffa8">
 
-Simulates:
+  Simulates:
 
-* Electrostatic forces
-* Gravity
-* Particle collisions
-* Bouncing
-* Particle interactions
+  * Electrostatic forces
+  * Gravity
+  * Particle collisions
+  * Bouncing
+  * Particle interactions
 
 </font>
 
@@ -128,13 +128,13 @@ Simulates:
 
 ## <font color="#00ff41">General Purpose LLM Agent</font>
 
-<font color="#66ff88">Built a memory/context-aware chatbot with tool functionality using only an LLM API.</font>
+  <font color="#66ff88">Built a memory/context-aware chatbot with tool functionality using only an LLM API.</font>
 
 <br>
 
 <font color="#a0ffa8">
 
-The system maintains contextual information and can invoke MCP tools or custom tools to perform actions rather than functioning purely as a conversational model.
+    The system maintains contextual information and can invoke MCP tools or custom tools to perform actions rather than functioning purely as a conversational model.
 
 </font>
 
@@ -150,9 +150,9 @@ The system maintains contextual information and can invoke MCP tools or custom t
 
 <font color="#a0ffa8">
 
-Modeling:
+  Modeling:
 
-**Registers** · **Memory** · **Instructions** · **Execution**
+  **Registers** · **Memory** · **Instructions** · **Execution**
 
 </font>
 
@@ -162,7 +162,7 @@ Modeling:
 
 ## <font color="#00ff41">Remote Screen Sharing</font>
 
-<font color="#66ff88">Built secure screen sharing between my laptop and phone using my personal server infrastructure and WebSockets.</font>
+  <font color="#66ff88">Built secure screen sharing between my laptop and phone using my personal server infrastructure and WebSockets.</font>
 
 <br>
 
@@ -170,7 +170,7 @@ Modeling:
 
 ## <font color="#00ff41">Private Mesh Network</font>
 
-<font color="#66ff88">Currently exploring how to build a Tailscale-like private mesh network and VPN tunneling system from the ground up.</font>
+  <font color="#66ff88">Currently exploring how to build a Tailscale-like private mesh network and VPN tunneling system from the ground up.</font>
 
 <br>
 
@@ -180,14 +180,14 @@ Modeling:
 
 <font color="#a0ffa8">
 
-**Learning**
-CPU architecture & emulation
+  **Learning**
+  CPU architecture & emulation
 
-**Building**
-Private mesh networking
+  **Building**
+  Private mesh networking
 
-**Exploring**
-Quantum computing
+  **Exploring**
+  Quantum computing
 
 </font>
 
@@ -197,7 +197,7 @@ Quantum computing
 
 # <font color="#00ff41">> PHILOSOPHY</font>
 
-> <font color="#66ff88">If I can understand the abstraction, I should be able to build it myself.</font>
+  <font color="#66ff88">If I can understand the abstraction, I should be able to build it myself.</font>
 
 <br>
 
