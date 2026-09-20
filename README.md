@@ -24,7 +24,7 @@
 
 ## <font color="#00ff41">LANGUAGES</font>
 
-<font color="#a0ffa8">Python</font>   ·   <font color="#a0ffa8">C</font>   ·   <font color="#a0ffa8">SQL</font>
+<font color="#a0ffa8">Python</font>   ·   <font color="#a0ffa8">C</font>   ·   <font color="#a0ffa8">C++</font>   ·   <font color="#a0ffa8">SQL</font>
 
 <br>
 
